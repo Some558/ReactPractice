@@ -9,5 +9,6 @@ const App = () => {};
 root.render(
   <StrictMode>
     <h1>こんにちは</h1>
+    <alert>アラートです。</arelt>
   </StrictMode>
 );
